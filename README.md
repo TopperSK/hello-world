@@ -1,4 +1,6 @@
 # hello-world
-this is my first repository
-bla bal bal
-opat uprava
+Shopping list:
+bananna 
+juice
+onion
+napkin
